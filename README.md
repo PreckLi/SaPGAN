@@ -1,7 +1,7 @@
 # SaPGAN
-Official implementation of SaPGAN, the model in the paper "Beyond Rigid Perturbation: Adaptive Semantic-Aware Privacy-Preserving for LLMs"
+Official implementation of SaPGAN, a privacy-preserving model in the paper "Beyond Rigid Perturbation: Adaptive Semantic-Aware Privacy-Preserving for LLMs"
 ## Preparation
-The Datasets path should be set by your own path and download the dataset files in it.
+The Datasets path should be set by your path and download the dataset files.
 
 Pretrained models should download from [huggingface](https://huggingface.co/) or [modelscope](https://www.modelscope.cn/home) and move them to your own model path.
 ## Requirements
